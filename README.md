@@ -41,3 +41,10 @@ Swastha is an online healthcare application where users can search and book appo
 - Google Dialogflow
 
 ## What the app looks like
+
+### 1. Registration using OTP and Login 
+![alt_text](https://github.com/Ruchira16/Swastha-E-Healthcare-Application/blob/main/screenshots/registrations.jpg)
+### 2. Dashboard, Book Appointment and Search Doctor
+![alt_text](https://github.com/Ruchira16/Swastha-E-Healthcare-Application/blob/main/screenshots/Capture.JPG)
+### 3. Chatbot, Notify and Manage Profile
+![alt_text](https://github.com/Ruchira16/Swastha-E-Healthcare-Application/blob/main/screenshots/Captures2.jpg)
